@@ -25,10 +25,23 @@ Our public repositories are structured, self-paced training courses. Each one is
 4. Alternately, you can run the example projects directly from the repository files to reinforce each concept.
 
 ```bash
-# Replace the example URL with your chosen repository
+# C
+git clone https://github.com/databankimx/training-c
+
+# C++
+git clone https://github.com/databankimx/training-c-plus-plus
+
+# C# and OnBase
 git clone https://github.com/databankimx/training-csharp-and-onbase.git
-# or
+
+# JavaScript
+git clone https://github.com/databankimx/training-c-javascript
+
+# Python
 git clone https://github.com/databankimx/training-python.git
+
+# Ruat
+git clone https://github.com/databankimx/training-rust
 ```
 
 ## License
