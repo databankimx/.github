@@ -17,18 +17,6 @@ Our public repositories are structured, self-paced training courses. Each one is
 | [training-python](https://github.com/databankimx/training-python) | Developer training in Python | Python | MIT |
 | [training-rust](https://github.com/databankimx/training-rust) | Developer training in Rust | Rust | MIT |
 
-### training-csharp-and-onbase
-
-C# and OnBase Unity API training. Works through core C# language concepts chapter by chapter, from a first "Hello World" through program structure, control flow, and object-oriented design, then moves into integrating with the OnBase Unity API.
-
-### training-python
-
-Developer training in Python, covering the language from the ground up for engineers getting productive with Python.
-
-### training-rust
-
-Developer training in Rust, covering the language from the ground up for engineers getting productive with Rust.
-
 ## Getting started
 
 1. Pick the repository that matches what you want to learn.
@@ -37,6 +25,7 @@ Developer training in Rust, covering the language from the ground up for enginee
 4. Alternately, you can run the example projects directly from the repository files to reinforce each concept.
 
 ```bash
+# Replace the example URL with your chosen repository
 git clone https://github.com/databankimx/training-csharp-and-onbase.git
 # or
 git clone https://github.com/databankimx/training-python.git
