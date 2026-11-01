@@ -10,7 +10,10 @@ Our public repositories are structured, self-paced training courses. Each one is
 
 | Repository | Focus | Language | License |
 | --- | --- | --- | --- |
+| [training-c](https://github.com/databankimx/training-c) | Developer training in C | C | MIT |
+| [training-c-plus-plus](https://github.com/databankimx/training-c-plus-plus) | Developer training in C++ | C++ | MIT |
 | [training-csharp-and-onbase](https://github.com/databankimx/training-csharp-and-onbase) | C# fundamentals and the OnBase Unity API | C# | MIT |
+| [training-javascript](https://github.com/databankimx/training-javascript) | Developer training in JavaScript | JavaScript | MIT |
 | [training-python](https://github.com/databankimx/training-python) | Developer training in Python | Python | MIT |
 | [training-rust](https://github.com/databankimx/training-rust) | Developer training in Rust | Rust | MIT |
 
