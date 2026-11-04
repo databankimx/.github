@@ -43,6 +43,9 @@ git clone https://github.com/databankimx/training-c-plus-plus
 # C# and OnBase
 git clone https://github.com/databankimx/training-csharp-and-onbase.git
 
+# Java
+git clone https://github.com/databankimx/training-c-java
+
 # JavaScript
 git clone https://github.com/databankimx/training-c-javascript
 
