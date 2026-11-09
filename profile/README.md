@@ -25,6 +25,7 @@ Our public repositories are structured, self-paced training courses. Each one is
 | [training-javascript](https://github.com/databankimx/training-javascript) | Developer training in JavaScript | JavaScript | MIT |
 | [training-python](https://github.com/databankimx/training-python) | Developer training in Python | Python | MIT |
 | [training-rust](https://github.com/databankimx/training-rust) | Developer training in Rust | Rust | MIT |
+| [training-typescript](https://github.com/databankimx/training-typescript) | Developer training in TypeScript (abbreviated) | TypeScript | MIT |
 
 ## Getting started
 
@@ -54,4 +55,7 @@ git clone https://github.com/databankimx/training-python.git
 
 # Ruat
 git clone https://github.com/databankimx/training-rust
+
+# TypeScript
+git clone https://github.com/databankimx/training-typescript
 ```
