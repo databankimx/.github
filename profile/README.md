@@ -28,6 +28,11 @@ Our public repositories are structured, self-paced training courses. Each one is
 | [training-python](https://github.com/databankimx/training-python) | Developer training in Python | Python | MIT |
 | [training-rust](https://github.com/databankimx/training-rust) | Developer training in Rust | Rust | MIT |
 | [training-typescript](https://github.com/databankimx/training-typescript) | Developer training in TypeScript (abbreviated) | TypeScript | MIT |
+
+### Modern Methods
+
+| Repository | Focus | Language | License |
+| --- | --- | --- | --- |
 | [training-ai-assisted-coding](https://github.com/databankimx/training-ai-assisted-coding) | AI-Assisted Coding | C#, Python, & JavaScript | MIT |
 
 ### Tools of the Trade
