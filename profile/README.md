@@ -16,6 +16,8 @@ Our public repositories are structured, self-paced training courses. Each one is
 
 ## Public repositories
 
+### Programming Languages
+
 | Repository | Focus | Language | License |
 | --- | --- | --- | --- |
 | [training-c](https://github.com/databankimx/training-c) | Developer training in C | C | MIT |
@@ -27,7 +29,14 @@ Our public repositories are structured, self-paced training courses. Each one is
 | [training-rust](https://github.com/databankimx/training-rust) | Developer training in Rust | Rust | MIT |
 | [training-typescript](https://github.com/databankimx/training-typescript) | Developer training in TypeScript (abbreviated) | TypeScript | MIT |
 | [training-ai-assisted-coding](https://github.com/databankimx/training-ai-assisted-coding) | AI-Assisted Coding | C#, Python, & JavaScript | MIT |
+
+### Tools of the Trade
+
+| Repository | Focus | Language | License |
+| --- | --- | --- | --- |
 | [training-markdown](https://github.com/databankimx/training-markdown) | Using Markdown | Markdown | MIT |
+| [training-powershell](https://github.com/databankimx/training-poweshell) | Using PowerShell for Commands | PowerShell | MIT |
+| [training-git](https://github.com/databankimx/training-git) | Using Git for Source Control | PowerShell | MIT |
 
 ## Getting started
 
