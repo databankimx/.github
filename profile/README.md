@@ -27,7 +27,7 @@ Our public repositories are structured, self-paced training courses. Each one is
 | [training-rust](https://github.com/databankimx/training-rust) | Developer training in Rust | Rust | MIT |
 | [training-typescript](https://github.com/databankimx/training-typescript) | Developer training in TypeScript (abbreviated) | TypeScript | MIT |
 | [training-ai-assisted-coding](https://github.com/databankimx/training-ai-assisted-coding) | AI-Assisted Coding | C#, Python, & JavaScript | MIT |
-| [training-markdown](https://github.com/databankimx/training-markdown) | Using Markdown | MArkdown | MIT |
+| [training-markdown](https://github.com/databankimx/training-markdown) | Using Markdown | Markdown | MIT |
 
 ## Getting started
 
