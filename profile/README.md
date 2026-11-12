@@ -29,6 +29,12 @@ Our public repositories are structured, self-paced training courses. Each one is
 | [training-rust](https://github.com/databankimx/training-rust) | Developer training in Rust | Rust | MIT |
 | [training-typescript](https://github.com/databankimx/training-typescript) | Developer training in TypeScript (abbreviated) | TypeScript | MIT |
 
+### Solution Strategies
+
+| Repository | Focus | Language | License |
+| --- | --- | --- | --- |
+| [training-authentication](https://github.com/databankimx/training-authentication) | Implementing Authentication in Code | C#, Python, & JavaScript | MIT |
+
 ### Modern Methods
 
 | Repository | Focus | Language | License |
