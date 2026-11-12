@@ -16,7 +16,7 @@ Our public repositories are structured, self-paced training courses. Each one is
 
 ## Public repositories
 
-### Programming Languages
+### Language Lineup
 
 | Repository | Focus | Language | License |
 | --- | --- | --- | --- |
