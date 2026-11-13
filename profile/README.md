@@ -34,7 +34,7 @@ Our public repositories are structured, self-paced training courses. Each one is
 | Repository | Focus | Language | License |
 | --- | --- | --- | --- |
 | [training-authentication](https://github.com/databankimx/training-authentication) | Implementing Authentication in Code | C#, Python, & JavaScript | MIT |
-| [training-data-formats](https://github.com/databankimx/training-data-formats) | Working with Data in Code | C#, Python, & JavaScript | MIT |
+| [training-data-formats](https://github.com/databankimx/training-data-formats) | Working with Data Files | C#, Python, & JavaScript | MIT |
 
 ### Modern Methods
 
