@@ -35,6 +35,7 @@ Our public repositories are structured, self-paced training courses. Each one is
 | --- | --- | --- | --- |
 | [training-authentication](https://github.com/databankimx/training-authentication) | Implementing Authentication in Code | C#, Python, & JavaScript | MIT |
 | [training-data-formats](https://github.com/databankimx/training-data-formats) | Working with Data Files | C#, Python, & JavaScript | MIT |
+| [training-unit-testing](https://github.com/databankimx/training-unit-testing) | Unit Testing with Fixtures and Mocks | C#, Python, & JavaScript | MIT |
 
 ### Modern Methods
 
