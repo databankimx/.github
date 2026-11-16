@@ -47,6 +47,7 @@ Our public repositories are structured, self-paced training courses. Each one is
 
 | Repository | Focus | Language | License |
 | --- | --- | --- | --- |
+| [training-vs-code](https://github.com/databankimx/training-vs-code) | Using Visual Studio Code | Markdown | MIT |
 | [training-markdown](https://github.com/databankimx/training-markdown) | Using Markdown | Markdown | MIT |
 | [training-powershell](https://github.com/databankimx/training-powershell) | Using PowerShell for Commands | PowerShell | MIT |
 | [training-git](https://github.com/databankimx/training-git) | Using Git for Source Control | PowerShell | MIT |
