@@ -53,6 +53,13 @@ Our public repositories are structured, self-paced training courses. Each one is
 | [training-powershell](https://github.com/databankimx/training-powershell) | Using PowerShell for Commands | PowerShell | MIT |
 | [training-git](https://github.com/databankimx/training-git) | Using Git for Source Control | PowerShell | MIT |
 
+### Tutorial Templates
+
+| Repository | Focus | Language | License |
+| --- | --- | --- | --- |
+| [training-visual-studio-practice](https://github.com/databankimx/training-visual-studio-practice) | Companion template for Visual Studio tutorial | C# | MIT |
+| [training-vs-code-practice](https://github.com/databankimx/training-vs-code-practice) | Companion template for Visual Studio Code tutorial | Python | MIT |
+
 ## Getting started
 
 1. Pick the repository that matches what you want to learn.
